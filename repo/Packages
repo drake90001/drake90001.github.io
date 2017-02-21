@@ -6,7 +6,7 @@ Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: debs//com.drake90001.toketime_0.0.2-1+debug_iphoneos-arm.deb
 Size: 701490
-Installed-Size: 816
+MD5sum: 4c3bd5b4be30541152b20b199705bd36
 Description: Tokin'
 Name: TokeTime (iOS 10)
 Author: Phillip Tennen

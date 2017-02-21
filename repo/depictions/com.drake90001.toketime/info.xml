@@ -26,6 +26,8 @@
 		<link>
 			<name>/r/jailbreak</name>
 			<url>https://www.reddit.com/r/jailbreak</url>
+			<name>Add to Cydia<add>
+			<url>cydia://url/https://cydia.saurik.com/api/share#?source=https://drake90001.github.io/repo/</url>
 		</link>
 	</links>
 </package>

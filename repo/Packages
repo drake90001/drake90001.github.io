@@ -4,7 +4,7 @@ Section: Tweaks
 Maintainer: Drake D.
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs//com.drake90001.toketime_1.0-1+debug_iphoneos-arm.deb
+Filename: debs//com.drake90001.toketime_1.0_iphoneos-arm.deb
 Size: 701612
 MD5sum: 647fa2759582a64edc19619bf6968a85
 Description: Tokin'

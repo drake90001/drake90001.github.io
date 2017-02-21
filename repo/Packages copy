@@ -5,9 +5,10 @@ Maintainer: Drake D.
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: debs//com.drake90001.toketime_1.0_iphoneos-arm.deb
-Size: 699140
-MD5sum: ccd52bbeaa47ea831128855394c02a5c
+Size: 701612
+MD5sum: 647fa2759582a64edc19619bf6968a85
 Description: Tokin'
 Name: TokeTime (iOS 10)
 Author: Phillip Tennen
 Depiction: https://drake90001.github.io/repo/depictions/?p=com.drake90001.toketime
+

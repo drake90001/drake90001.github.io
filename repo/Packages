@@ -1,0 +1,13 @@
+Package: com.drake90001.toketime
+Version: 0.0.2-1+debug
+Section: Tweaks
+Maintainer: Drake D.
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs//com.drake90001.toketime_0.0.2-1+debug_iphoneos-arm.deb
+Size: 701490
+Installed-Size: 816
+Description: Tokin'
+Name: TokeTime (iOS 10)
+Author: Phillip Tennen
+

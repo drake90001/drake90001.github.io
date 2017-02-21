@@ -1,11 +1,11 @@
-Origin: uroboro's repository
-Label: uroboro's repo
+Origin: drake90001 based on uroboro
+Label: drake90001's repo
 Suite: stable
 Version: 0.1
-Codename: uroboronest
+Codename: drake90001
 Architectures: iphoneos-arm
 Components: main
-Description: A rather circular repository
+Description: Thank you to uroboro!
 MD5Sum:
  ec632b81cf0400a3cf5e95a3173ddcf7 14194 Packages
  972993636d5872249eac3ae26381c5a6 2546 Packages.bz2

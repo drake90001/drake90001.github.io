@@ -1,5 +1,7 @@
 <changelog>
 	<changes>
+        <version>1.0-1+debug</version>
+        <change>Fixed SpringBoard Crash</change>
 		<version>0.0.2-1+debug</version>
 		<change>Initial Release - Fixed for iOS 10, minor crash that I can't figure out yet.</change>
 	</changes>
